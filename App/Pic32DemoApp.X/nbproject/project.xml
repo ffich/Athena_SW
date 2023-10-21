@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>Pic32DemoApp</name>
+            <creation-uuid>13db5e43-5488-4309-bca7-1c15a0393517</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <c-extensions>c</c-extensions>
+            <cpp-extensions/>
+            <header-extensions>h</header-extensions>
+            <asminc-extensions/>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
+            <make-dep-projects>
+                <make-dep-project>../../Boot/DemoPic32Boot.X</make-dep-project>
+            </make-dep-projects>
+            <sourceRootList>
+                <sourceRootElem>../Source/h/Bsp</sourceRootElem>
+                <sourceRootElem>../Source/h/Com</sourceRootElem>
+                <sourceRootElem>../Source/h/Drivers</sourceRootElem>
+                <sourceRootElem>../Source/h/Main</sourceRootElem>
+                <sourceRootElem>../Source/h/Sched</sourceRootElem>
+                <sourceRootElem>../Source/h/Stacks</sourceRootElem>
+                <sourceRootElem>../Source/h/Tasks</sourceRootElem>
+                <sourceRootElem>../Source/c/Bsp</sourceRootElem>
+                <sourceRootElem>../Source/c/Drivers</sourceRootElem>
+                <sourceRootElem>../Source/c/Main</sourceRootElem>
+                <sourceRootElem>../Source/c/Sched</sourceRootElem>
+                <sourceRootElem>../Source/c/Stacks</sourceRootElem>
+                <sourceRootElem>../Source/c/Tasks</sourceRootElem>
+                <sourceRootElem>../Source/_Linker/UsbHostBoot</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>default</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>

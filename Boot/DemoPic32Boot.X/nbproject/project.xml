@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>DemoPic32Boot</name>
+            <creation-uuid>d25c21df-a0f0-4a48-a69b-2e5d7239e8b5</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <c-extensions>c</c-extensions>
+            <cpp-extensions/>
+            <header-extensions>h</header-extensions>
+            <asminc-extensions/>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>../Source/h/01_Bsp</sourceRootElem>
+                <sourceRootElem>../Source/h/02_Drivers</sourceRootElem>
+                <sourceRootElem>../Source/h/03_Stacks</sourceRootElem>
+                <sourceRootElem>../Source/h/04_App</sourceRootElem>
+                <sourceRootElem>../Source/c/00_Main</sourceRootElem>
+                <sourceRootElem>../Source/c/01_Bsp</sourceRootElem>
+                <sourceRootElem>../Source/c/02_Drivers</sourceRootElem>
+                <sourceRootElem>../Source/c/03_Stacks</sourceRootElem>
+                <sourceRootElem>../Source/c/04_App</sourceRootElem>
+                <sourceRootElem>../Source/_Linker</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>default</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>
